@@ -1,0 +1,21 @@
+﻿Symptoms,Probable Cause(s),What Mechanic Checks
+"Engine won't start, no cranking sound ","Dead battery, corroded terminals, bad starter relay","Battery Voltage (should be 12.6V+), terminal connections, relay click"
+Engine cranks but won't start,"No fuel delivery, bad spark plugs, failed crankshaft sensor","Fuel pump prime sound, spark plug condition, diagnostic codes"
+Engine overheating,"Low coolant, broken thermostat, failed water pump, blown head gasket","Coolant level, thermostat operation, radiator flow, oil for milky residue"
+White smoke from exhaust ,"Coolant burning in combustion (head gasket), condensation (normal cold start) ","Head gasket integrity, coolant level drop, oil contamination "
+Black smoke from exhaust ,"Rich fuel mixture, clogged air filter, faulty fuel injectors","Air filter condition, injector spray pattern, O2 sensor reading "
+Blue smokes from exhaust,"Oil burning in combustion, worn piston rings or valve seals","Oil consumption rate, PCV valve, compression test per cylinder"
+Car pulls to one side while braking,"Uneven brake pad wear, stuck caliper, brake fluid leak","Brake pad thickness per wheel, caliper slide pins, brake lines "
+Grinding noise when braking,"Worn brake pads metal-on-metal, warped rotors ","Brake pad thickness, rotor surface condition, caliper operation "
+Squealing noise when braking,Worn brake pad indicator contacting rotor,Brake pad wear indicator level 
+Steering wheel vibrates at high speed,"Wheel imbalance, worn tie rod ends, damaged CV joint","Wheel balance, front-end play, CV boot for grease leaks "
+Car vibrates at idle only,"Misfiring cylinder, worn engine mounts, vacuum leak ","Spark plug/coil condition, engine mount rubber, intake manifold seals "
+Battery warning light on,"Failing alternator, loose serpentine belt, bad battery","Alternator output voltage (should be 13.5-14.5V running), belt tension "
+Check engine light on,Multiple possible faults — read OBD-II codes first,Connect OBD scanner to read diagnostic trouble codes (DTCs) 
+Air conditioning blows warm air,"Low refrigerant, failed compressor, clogged condenser","Refrigerant pressure, compressor clutch engagement, condenser fins "
+Knocking sound from engine under load,"Low oil pressure, worn main bearings, detonation/pinging ","Oil level and pressure, bearing clearance, fuel octane rating "
+Car stall when stopping,"Idle air control valve dirty, vacuum leak, low fuel pressure ","AC valve cleaning, intake vacuum lines, fuel pressure at idle"
+Fuel consumption suddenly increases,"Dirty air filter, faulty O2 sensor, stuck-open injector, spark plugs ","Air filter, O2 sensor live data, injector flow rate, plug condition"
+Oil pressure warning light on,"Low oil level, failing oil pump, blocked oil filter, worn bearings ",Oil level first — top up if low; then pressure test; filter condition 
+Transmission slipping between gears,"Low transmission fluid, worn clutch plates, solenoid fault ","Fluid level and condition (color/smell), solenoid codes, clutch pack"
+Clicking sound when turning (FWD),"Worn outer CV joint, low CV joint grease, damaged CV boot","CV boot for cracks/grease loss, joint play during turning "
